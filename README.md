@@ -12,7 +12,6 @@ A React-based web application for generating and analyzing process mining event 
 - 🚗 Delivery process simulation with error handling
 - ✨ Quality control and rework process simulation
 - 📈 Time-based order probability distribution
-- 💳 Multiple payment methods support
 
 ## Installation
 
